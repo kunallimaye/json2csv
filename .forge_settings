@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<configuration>
+<rootpath>/transform</rootpath>
+<rest>
+<applicationclass>
+<package>com.kunal.json2csv.util</package>
+<name>ActivatorJAX_RS</name>
+</applicationclass>
+</rest>
+<forge>
+<analytics>
+<enabled>false</enabled>
+</analytics>
+</forge>
+</configuration>
